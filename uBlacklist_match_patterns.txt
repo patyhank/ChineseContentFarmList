@@ -19,6 +19,7 @@ title/.*【 官网/
 title/.*【手动输入/
 title/.*【输入 dk/
 title/.*【输入⏩dk/
+title/.*【(註冊|注册)送
 title/.*me✔️)/
 title/.*com 】/
 title/.*DK2000/
